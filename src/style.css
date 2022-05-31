@@ -14,6 +14,16 @@ h1 {
 }
 a {
   color: #ffd124;
+  text-decoration: none;
+}
+.btn-style {
+  background: #ffd124;
+  color: #43919b;
+  transition: all 100ms ease-in-out;
+}
+.btn-style:hover {
+  background: #43919b;
+  border: 2px solid #ffd124;
 }
 
 p {
